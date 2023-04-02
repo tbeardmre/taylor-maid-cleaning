@@ -1,1 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap");
 
+h1 {
+  font-family: "Amatic SC", cursive;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: "Amatic SC", cursive;
+}
+
+h3 {
+  font-family: "Amatic SC", cursive;
+}
